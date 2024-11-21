@@ -93,22 +93,6 @@
   
 
 **5. Create a Pull Request:** Go back to your forked repository and click `Compare & pull request`. Alternatively, select your branch from the branch selector and click `Open pull request` from the `Contribute` drop-down menu. Fill out the title and description for your pull request, and click `Create pull request` to submit it.
-
-  
-  
-
-<div align="right">
-
-<a href="#awesome-causal-incremental--continual--lifelong-learning">:top:</a>
-
-</div>
-
-<div align="center">
-
-<a href="#awesome-causal-incremental--continual--lifelong-learning">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=libo-huang.Awesome-Causal-Incremental-Learning&left_color=green&right_color=red&format=true" alt="xxx">
-
-</a>
-
-</div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5MjM1MzcwXX0=
+-->
